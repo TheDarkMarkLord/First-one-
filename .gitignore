@@ -1,7 +1,7 @@
 User-friendly 
 TheDarkMarkLord
-*.ap_
-
+# simple-codes
+# simple-codes
 # Files for the ART/Dalvik VM
 *.dex
 
